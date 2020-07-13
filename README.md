@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"/><title>Watershed Districts</title></head><body>
+<html><head><meta charset="utf-8"/></head><body>
 <h1>Drawing Political Boundaries with Watersheds</h1>
 Christopher B. Pond
 
