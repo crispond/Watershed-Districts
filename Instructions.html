@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"/><title>Watershed Districts Instructions</title></head><body>
+<h1>Watershed Districts Instructions</h1>
+
+<h3>Step 1</h3>
+
+Begin with WatershedDistricts.sql.  This will list the steps required to recreate district geometries.  This process may take several days, depending on the size of the data and the machine processing it.  It is theoretically possible to use it with any source dataset containing the applicable elements, and there is also a method by which US congressional districts may be assigned without regard to state boundaries.  This results in a far more equitable distribution of population.
+
+<h3>Step 2</h3>
+
+Download all required data.
+
+<h3>Step 3</h3>
+
+Install required functions.
+
+<h3>Step 4</h3>
+
+Run each PGScript batch section in order.  It's recommended to run each section separately and to run the included sanity checks afterward, in case data were not imported correctly.
+
+<h3>Step 5</h3>
+
+Update the database connexion in include.php and run the listed PHP files, in order.
+
+<h3>Step 6</h3>
+
+If desired, export final shapes as text or KML with the SQL code at the very end of WatershedDistricts.sql.
+
+</body></html>
