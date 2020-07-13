@@ -3,6 +3,7 @@
 <h1>Drawing Political Boundaries with Watersheds</h1>
 Christopher B. Pond
 
+<img src = "https://github.com/crispond/Watershed-Districts/blob/master/images/CA.png"/>
 
 <h3>Introduction</h3>
 Gerrymandering is a problem which has risen into greater prominence recently, though it has been around since the early 19th century.  It's the process of intentionally drawing representational districts in order to facilitate a preferred outcome in democratic elections.  It can result in constituents being denied their Constitutional rights to fair and equal representation, and has been found in cases to intentionally disenfranchise racial minorities.  There are many ways to correct for this problem, and here I present one which I believe is novel, the creation of representational districts using watershed boundaries as a guide.
